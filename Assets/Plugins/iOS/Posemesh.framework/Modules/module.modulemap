@@ -1,0 +1,11 @@
+framework module Posemesh {
+    umbrella header "Posemesh-Umbrella-Header.h"
+
+    export *
+    module * { export * }
+}
+
+module Posemesh.Swift {
+  header "Posemesh-Swift.h"
+  requires objc
+}

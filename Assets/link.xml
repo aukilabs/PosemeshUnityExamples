@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="com.aukilabs.unity.ark" preserve="all" />
+  <assembly fullname="Auki.Ark" preserve="all" />
+  <assembly fullname="com.aukilabs.unity.integration.arfoundation" preserve="all" />
+  <assembly fullname="Auki.Integration.ARFoundation" preserve="all" />
+</linker>
