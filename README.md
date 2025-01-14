@@ -1,6 +1,6 @@
 ## Posemesh SDK iOS Unity Examples
 
-A basic Unity project that compares the iOS [posemesh SDK](https://github.com/aukilabs/posemesh)'s PnP solver with [ConjureKit Ark](https://github.com/aukilabs/com.aukilabs.unity.ark) pose solver.
+A basic Unity project that compares the iOS [posemesh SDK](https://github.com/aukilabs/posemesh)'s PnP solver with [ConjureKit Ark](https://documentation.aukiverse.com/unity/com.aukilabs.unity.ark/) pose solver.
 
 Contains a prebuilt posemesh SDK from [this PR](https://github.com/aukilabs/posemesh/pull/24).
 
